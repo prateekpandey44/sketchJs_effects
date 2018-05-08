@@ -50,7 +50,7 @@ Particle.prototype = {
 
 
 var MAX_PARTICLES = 280;
-var COLOURS = [ '#2E7', '#ABD8', '#E4CC', '#F30', '#FA69', '#FF4E', '#F96' ];
+var COLOURS = [ 'red', 'blue', 'green', 'white', 'orange', 'yellow', 'purple' ];
 
 var particles = [];
 var pool = [];
